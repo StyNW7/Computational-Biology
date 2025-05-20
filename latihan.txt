@@ -1,0 +1,25 @@
+Import Sequence dari file FASTA tersebut lalu jadikan variabel Sequence A & Sequence B.
+
+Combine ke-dua sequence tersebut untuk untuk dijadikan 1 sequence baru yaitu Sequence C (Misalnya Sequence C diambil dari 15 nucleotide pertama dari A dan digabung dengan 30 necleotide terakhir dari B).
+
+Lalu lakukan hal-hal berikut untuk ke tiga sequence tersebut:
+
+1. Sequence string manipulation dengan menggunakan built-in function dari python. Buatlah min. 5 functions (Misalnya length, reverse, split, indexing, dsb.)
+
+2. Hitung dan tampilkan melting temperature boleh menggunakan salah satu dari metode built-in sebagai berikut (GC content percentage, Wallace’s Rule, dan Nearest Neighbor thermodynamics)
+
+3. Hitung dan tampilkan molecular weight untuk setiap sequence
+
+4. Hitung dan tampilkan GC & AT content percentage untuk masing-masing sequence
+
+5. Hitung dan tampilkan frequency untuk semua nucleotide bases (G, C, A, T) di masing
+
+6. Plot Molecular weight (A dan B dalam satu plot), GC & AT content percentage (A dan B masing – masing plot), Nucleotide bases frequency (A dan B dalam satu plot) untuk masing-masing sequence dengan menggunakan matplotlib
+
+7. Lakukan mRNA transcription, dan amino acid Translation untuk masing masing sequence
+
+8. Lakukan simulasi alignment dan sequence comparison. Buatlah 1 sequence random (Sequence D) yang terdiri dari 45 nucleotide (G, C, A, T), lakukan hal sebagai berikut:
+
+- Compare sequence D dengan mengambil 45 nucleotide pertama dari masing-masing sequence A, dan B. Bandingkan dengan metode Levenshtein Distance
+
+- Lakukan local alignment pairwise dari Sequence D. Dan munculkan alignment score nya dengan sequence A, dan B
