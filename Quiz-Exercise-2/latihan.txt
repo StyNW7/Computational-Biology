@@ -12,7 +12,7 @@ Lalu lakukan hal-hal berikut untuk ke tiga sequence tersebut:
 
 4. Hitung dan tampilkan GC & AT content percentage untuk masing-masing sequence
 
-5. Hitung dan tampilkan frequency untuk semua nucleotide bases (G, C, A, T) di masing
+5. Hitung dan tampilkan frequency untuk semua nucleotide bases (G, C, A, T) di masing-masing sequence (A, B, C)
 
 6. Plot Molecular weight (A dan B dalam satu plot), GC & AT content percentage (A dan B masing – masing plot), Nucleotide bases frequency (A dan B dalam satu plot) untuk masing-masing sequence dengan menggunakan matplotlib
 
