@@ -2,6 +2,8 @@ Stanley Nathanael Wijaya, NW25-1
 
 Computational Biology - Lab
 
+Kita akan memulai kelas di jam [MASUKIN JAM]
+
 COURSE OUTLINE - SESI 1
 Sequence Analysis using BioPython
 ======================================================
@@ -10,3 +12,5 @@ Sequence Analysis using BioPython
 [] Working with Sequence
 [] Sequence and Subsequence Manipulation
 [] Nucleotide Frequency Plot
+
+Canva Slides: https://www.canva.com/design/DAHA0tu0yD8/S5vIrrYIdh-WcT6Zpvj0gA/view?utm_content=DAHA0tu0yD8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2a626214d8
