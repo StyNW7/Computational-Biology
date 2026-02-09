@@ -1,0 +1,12 @@
+Stanley Nathanael Wijaya, NW25-1
+
+Computational Biology - Lab
+
+COURSE OUTLINE - SESI 1
+Sequence Analysis using BioPython
+======================================================
+
+[] BioPython: Introduction and Installation
+[] Working with Sequence
+[] Sequence and Subsequence Manipulation
+[] Nucleotide Frequency Plot
