@@ -4,8 +4,8 @@ Computational Biology - Lab
 
 Kita akan memulai kelas di jam [MASUKIN JAM]
 
-COURSE OUTLINE - SESI 1
-Sequence Analysis using BioPython
+COURSE OUTLINE - SESI 2
+DNA Composition Analysis
 ======================================================
 
 [] GC and AT Composition on DNA
@@ -17,4 +17,4 @@ Notes:
 - Teach how to calculate the melting point of a DNA sequence using the Wallace rule, GC content, and the nearest neighbor thermodynamic method.
 - Teach how to calculate the molecular weight of a DNA sequence.
 
-Canva Slides: 
+Canva Slides: https://www.canva.com/design/DAHCPQezaok/Hi6cQSnb5v4HVbkk3852-A/view?utm_content=DAHCPQezaok&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb9b9896128
