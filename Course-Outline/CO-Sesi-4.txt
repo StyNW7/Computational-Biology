@@ -1,0 +1,19 @@
+Stanley Nathanael Wijaya, NW25-1
+
+Computational Biology - Lab
+
+Kita akan memulai kelas di jam [MASUKIN JAM]
+
+COURSE OUTLINE - SESI 4
+Sequence Alignment Using Biopython
+======================================================
+
+[] Global and Local Alignment
+[] Similarity Analysis
+[] Hamming Distance, Levenshtein Distance, and Dot Plot
+
+Notes:
+- Teach about global and local alignment.
+- Teach how to calculate DNA sequence similarity using Hamming distance, Levenshein distance, and the graphical method with Dot Plot.
+
+Canva Slides: https://canva.link/a7zue62xosor40m
