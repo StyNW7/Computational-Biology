@@ -1,0 +1,19 @@
+Stanley Nathanael Wijaya, NW25-1
+
+Computational Biology - Lab
+
+Kita akan memulai kelas di jam [MASUKIN JAM]
+
+COURSE OUTLINE - SESI 5
+Working with Biological GenBank Files
+======================================================
+
+[] Working with FASTA files
+[] Working with PDB files
+[] Protein Explanatory Data Analysis
+
+Notes:
+- Teach how to read FASTA or PDB GenBank files.
+- Teach how to parse information in GenBank files such as ID, description, DNA sequence, etc.
+
+Canva Slides: ...
